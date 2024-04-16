@@ -1,7 +1,8 @@
 # TransformerG2G
 
 ### Introduction
-![TransformerG2G](transformerG2G.png)
+<img src="transformerG2G.png" alt="architecture" width="200"/>
+
 
 ### Running the code
 
