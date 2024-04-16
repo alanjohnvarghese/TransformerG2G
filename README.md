@@ -1,8 +1,9 @@
 # TransformerG2G
 
 ### Introduction
-This repository contains the code for our work: [TransformerG2G](https://arxiv.org/abs/2307.02588)
 <img src="transformerG2G.png" alt="architecture" width="450"/>
+
+This repository contains the code for our work: [TransformerG2G](https://arxiv.org/abs/2307.02588)
 
 
 ### Running the code
